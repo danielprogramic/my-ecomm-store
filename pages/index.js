@@ -10,12 +10,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src="/images/logo_daniel.png" alt="Space Jelly Tshirt"/>
         <h1 className={styles.title}>
-          Space Jelly Shop
+          Daniel Douglas Machado
         </h1>
 
         <p className={styles.description}>
-         The best space jellyfish swag on the web!
+          Talk is cheap. Show me the code.
         </p>
 
         <ul className={styles.grid}>
